@@ -1,2 +1,3 @@
-# net47_forms_crud_001
- net47_forms_crud_001
+## Crud
+#Tecnologia: Windows Forms
+Autor: Maximo Hugo Bueno Uribe.
