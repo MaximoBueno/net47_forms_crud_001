@@ -1,3 +1,2 @@
-## Crud
-#Tecnologia: Windows Forms
+# Crud con Windows Forms
 Autor: Maximo Hugo Bueno Uribe.
